@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="CovarianceAndContavarianceDelegateExample/CovarianceAndContavarianceDelegateExample.csproj" />
+  <Project Path="DNSAsyncCallbackSampleCode/CallbackSampleCode.csproj" />
+  <Project Path="FuncActionPredecateExamples/FuncActionPredecateExamples.csproj" />
+</Solution>
