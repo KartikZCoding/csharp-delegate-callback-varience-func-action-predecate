@@ -2,4 +2,5 @@
   <Project Path="CovarianceAndContavarianceDelegateExample/CovarianceAndContavarianceDelegateExample.csproj" />
   <Project Path="DNSAsyncCallbackSampleCode/CallbackSampleCode.csproj" />
   <Project Path="FuncActionPredecateExamples/FuncActionPredecateExamples.csproj" />
+  <Project Path="DelegateBasicExample/DelegateBasicExample.csproj" Id="f3e5d4ae-150e-4286-bcea-62459c8a67ee" />
 </Solution>
